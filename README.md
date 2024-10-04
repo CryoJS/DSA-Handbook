@@ -3,8 +3,8 @@ Data Structures and Algorithms Handbook: a presentation-styled guide to teach st
 
 ## How to Use
 - Click the files in this repo and you can start learning!
-- While following copyright, you can download these slides and use them for your needs (presenting for a computer science camp or high school club).
-- Don't forget to give credit.
+- Feel free to download these slides and use them for your needs (eg. teaching or learning).
+- Please give credit and follow the license.
 
 ## Material
 - Starting
