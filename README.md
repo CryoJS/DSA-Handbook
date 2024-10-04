@@ -1,5 +1,5 @@
 # DSA-Handbook
-A presentation-styled guide to teach students the fundamentals of competitive programming.
+Data Structures and Algorithms Handbook: a presentation-styled guide to teach students the fundamentals of competitive programming.
 
 ## How to Use
 - Click the files in this repo and you can start learning!
