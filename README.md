@@ -7,10 +7,11 @@ Data Structures and Algorithms Handbook: a presentation-styled guide to teach st
 - Please give credit and follow the license.
 
 ## Material
-- Starting
+- Starting Out
 - Implementation
 - Time Complexity
 - Prefix Sum Arrays
+- Basic Data Structures
 
 ## Credits
 - Lead: Jason Sun
