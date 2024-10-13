@@ -14,5 +14,5 @@ Data Structures and Algorithms Handbook: a presentation-styled guide to teach st
 - Basic Data Structures
 
 ## Credits
-- Lead: Jason Sun
-- Writer: Puneet Bhat
+- Written by **Jason Sun**
+- Thank you, **Puneet Bhat**, for helping out :D
