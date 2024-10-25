@@ -12,6 +12,7 @@ Data Structures and Algorithms Handbook: a presentation-styled guide to teach st
 - Time Complexity
 - Prefix Sum Arrays
 - Basic Data Structures
+- Recursion
 
 ## Credits
 - Written by **Jason Sun**
