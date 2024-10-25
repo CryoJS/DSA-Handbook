@@ -17,3 +17,7 @@ Data Structures and Algorithms Handbook: a presentation-styled guide to teach st
 ## Credits
 - Written by **Jason Sun**
 - Thank you, **Puneet Bhat**, for helping out :D
+
+## Sample Slides
+![Competitive Programming_ 5 - IDK](https://github.com/user-attachments/assets/3eb78873-5214-4eac-bf9e-4a927bca9b4e)
+![Competitive Programming_ 1 - Introduction](https://github.com/user-attachments/assets/2fe0b98a-570c-4544-95a1-c182396150a9)
